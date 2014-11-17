@@ -18,7 +18,7 @@ module Parse
       app_identifier: 'appIdentifier'
     }
 
-    def initialize(parse_object_id)
+    def initialize(parse_object_id=nil)
       @parse_object_id = parse_object_id
     end
 
