@@ -11,6 +11,7 @@ module Parse
       time_zone: 'timeZone',
       device_token: 'deviceToken',
       device_type: 'deviceType',
+      push_type: 'pushType',
       channel_uris: 'channelUris',
       app_name: 'appName',
       app_version: 'appVersion',
