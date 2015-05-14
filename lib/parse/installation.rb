@@ -12,6 +12,7 @@ module Parse
       device_token: 'deviceToken',
       device_type: 'deviceType',
       push_type: 'pushType',
+      gcm_sender_id: 'GCMSenderId',
       channel_uris: 'channelUris',
       app_name: 'appName',
       app_version: 'appVersion',
